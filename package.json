@@ -1,0 +1,19 @@
+{
+  "name": "tarealistas",
+  "version": "1.0.0",
+  "description": "Archivo con lo solicitado en el ejercicio del OpenBootcamp",
+  "main": "tareaListas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LesJosse/TareaListas.git"
+  },
+  "author": "Jose Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LesJosse/TareaListas/issues"
+  },
+  "homepage": "https://github.com/LesJosse/TareaListas#readme"
+}
